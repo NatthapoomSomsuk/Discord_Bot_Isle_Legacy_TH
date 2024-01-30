@@ -6,7 +6,6 @@ module.exports = {
     colorsuccess: "#77b255",
     colorfail: "#dd2e44",
     colorwarning: "#f6b26b",
-
-    userdatabasepath: `../TheIsle/Saved/Databases/Survival/Players`,
-    token: "NzEyNTc5ODMzNzc5MDYwNzQ2.Gl_hUP.uNeADH18YgcLmK4ZwFnC_oatf3_iOBgm5xHHiA", //โทเคนบอท
+    userdatabasepath: `../TheIsle/Saved/Databases/Survival/Players`,//ตำแหน่งไฟล์ข้อมูล ผู้เล่น
+    token: "<TOKEN BOT>", //โทเคนบอท Discord
 };
