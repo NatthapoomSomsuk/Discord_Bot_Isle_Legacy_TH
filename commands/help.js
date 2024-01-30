@@ -14,7 +14,6 @@ exports.run = async(bot, message, args) => {
 \`${prefix}register (UID Steam)\` สำหรับลงชื่อเข้าใช้งาร Bot
 \`${prefix}store\` สำหรับดูราคาไดโนเสาร์
 \`${prefix}sell\` สำหรับขายไดโนเสาร์ 
-\`${prefix}donate (จำนวนเงิน)\` สำหรับบริจากเงินให้กับเรา
 \`${prefix}profile \` สำหรับดูไดโนเสาร์ใน Server 
 \`${prefix}viewslot \` สำหรับดูข้อมูลใน slot ที่บันทึกไว้
 \`${prefix}saveslot (ช่อง slot)\` สำหรับเซฟไดโนเสาร์
