@@ -1,0 +1,20 @@
+{
+    "name": "bot-discord",
+    "version": "2.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "fortune (_Chelos_)",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "colors": "^1.4.0",
+        "discord-buttons": "^4.0.0-deprecated",
+        "discord.js": "^12.2.0",
+        "discord.js-buttons": "^1.0.0",
+        "sqlite": "^4.0.25",
+        "sqlite3": "^5.0.2"
+    }
+}

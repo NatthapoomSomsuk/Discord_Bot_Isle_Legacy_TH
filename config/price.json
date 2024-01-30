@@ -1,0 +1,168 @@
+{
+    "Taco": {
+        "buy": 50,
+        "sell": 0
+    },
+    "Oro": {
+        "buy": 50,
+        "sell": 0
+    },
+    "Ava": {
+        "buy": 50,
+        "sell": 0
+    },
+    "StegoJuv": {
+        "buy": 1500,
+        "sell": 0
+    },
+    "Stego": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "TheriJuv": {
+        "buy": 2500,
+        "sell": 0
+    },
+    "Theri": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "AnkyJuv": {
+        "buy": 800,
+        "sell": 0
+    },
+    "Anky": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "ShantJuv": {
+        "buy": 2000,
+        "sell": 0
+    },
+    "Shant": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "Camara": {
+        "buy": 3000,
+        "sell": 0
+    },
+    "Velo": {
+        "buy": 20,
+        "sell": 0
+    },
+    "HerreraJuv": {
+        "buy": 50,
+        "sell": 0
+    },
+    "Herrera": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "Austro": {
+        "buy": 30,
+        "sell": 0
+    },
+    "Albert": {
+        "buy": 800,
+        "sell": 0
+    },
+    "AcroJuv": {
+        "buy": 1000,
+        "sell": 0
+    },
+    "Acro": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "BaryJuv": {
+        "buy": 1300,
+        "sell": 0
+    },
+    "Bary": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "SpinoJuv": {
+        "buy": 2000,
+        "sell": 0
+    },
+    "Spino": {
+        "buy": 9999,
+        "sell": 0
+    },
+    "GalliAdultS": {
+        "buy": 0,
+        "sell": 160
+    },
+    "MaiaAdultS": {
+        "buy": 0,
+        "sell": 160
+    },
+    "DiabloAdultS": {
+        "buy": 0,
+        "sell": 160
+    },
+    "PachyAdultS": {
+        "buy": 0,
+        "sell": 160
+    },
+    "ParaAdultS": {
+        "buy": 0,
+        "sell": 150
+    },
+    "DryoAdultS": {
+        "buy": 0,
+        "sell": 120
+    },
+    "TrikeAdultS": {
+        "buy": 0,
+        "sell": 110
+    },
+    "UtahAdultS": {
+        "buy": 0,
+        "sell": 110
+    },
+    "CeratoAdultS": {
+        "buy": 0,
+        "sell": 120
+    },
+    "DiloAdultS": {
+        "buy": 0,
+        "sell": 90
+    },
+    "GigaAdultS": {
+        "buy": 0,
+        "sell": 70
+    },
+    "GigaJuvS": {
+        "buy": 0,
+        "sell": 0
+    },
+    "GigaSubS": {
+        "buy": 0,
+        "sell": 0
+    },
+    "AlloAdultS": {
+        "buy": 0,
+        "sell": 140
+    },
+    "CarnoAdultS": {
+        "buy": 0,
+        "sell": 120
+    },
+    "SuchoAdultS": {
+        "buy": 0,
+        "sell": 90
+    },
+    "RexAdultS": {
+        "buy": 0,
+        "sell": 90
+    },
+    "RexSubS": {
+        "buy": 0,
+        "sell": 0
+    }
+
+
+}
